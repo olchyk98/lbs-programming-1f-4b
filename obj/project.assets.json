@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oles/Documents/Coding/htdocs/bulshitcoding/bulshitcoding.csproj",
+      "projectUniqueName": "/home/oles/Documents/Coding/htdocs/lbs-programming-1f-4b/bulshitcoding.csproj",
       "projectName": "bulshitcoding",
-      "projectPath": "/home/oles/Documents/Coding/htdocs/bulshitcoding/bulshitcoding.csproj",
+      "projectPath": "/home/oles/Documents/Coding/htdocs/lbs-programming-1f-4b/bulshitcoding.csproj",
       "packagesPath": "/home/oles/.nuget/packages/",
-      "outputPath": "/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/",
+      "outputPath": "/home/oles/Documents/Coding/htdocs/lbs-programming-1f-4b/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oles/.nuget/NuGet/NuGet.Config"
