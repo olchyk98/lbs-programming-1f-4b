@@ -1,0 +1,13 @@
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding.deps.json
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding.runtimeconfig.json
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding.runtimeconfig.dev.json
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding.dll
+/home/oles/Documents/Coding/htdocs/bulshitcoding/bin/Debug/netcoreapp3.1/bulshitcoding.pdb
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.csprojAssemblyReference.cache
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.AssemblyInfoInputs.cache
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.AssemblyInfo.cs
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.csproj.CoreCompileInputs.cache
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.dll
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.pdb
+/home/oles/Documents/Coding/htdocs/bulshitcoding/obj/Debug/netcoreapp3.1/bulshitcoding.genruntimeconfig.cache
